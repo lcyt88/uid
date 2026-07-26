@@ -1,0 +1,6 @@
+Flask
+Gunicorn
+user_agent
+requests
+pycryptodome
+protobuf
